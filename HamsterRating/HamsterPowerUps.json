@@ -20,8 +20,8 @@
   "PowerUps": [
     {
       "Name": "Fan tokens",
-      "Price": 11025,
-      "Value": "1.01K",
+      "Price": 12763,
+      "Value": "1.08K",
       "GroupId": 0
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "Name": "Shit coins",
-      "Price": 7757,
-      "Value": "723",
+      "Price": 9900,
+      "Value": "773",
       "GroupId": 0
     },
     {
@@ -146,8 +146,8 @@
     },
     {
       "Name": "IT team",
-      "Price": 3103,
-      "Value": "294",
+      "Price": 3960,
+      "Value": "315",
       "GroupId": 1
     },
     {
@@ -158,14 +158,14 @@
     },
     {
       "Name": "Partnership program",
-      "Price": 990,
-      "Value": "92",
+      "Price": 1327,
+      "Value": "98",
       "GroupId": 1
     },
     {
       "Name": "Product team",
-      "Price": 1103,
-      "Value": "107",
+      "Price": 1276,
+      "Value": "114",
       "GroupId": 1
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "Name": "Anonymous transactions ban",
-      "Price": 7701,
-      "Value": "515",
+      "Price": 12545,
+      "Value": "552",
       "GroupId": 1
     },
     {
@@ -208,6 +208,12 @@
       "Name": "Compliance officer",
       "Price": 3859,
       "Value": "128",
+      "GroupId": 1
+    },
+    {
+      "Name": "Blocking suspicious accounts",
+      "Price": 2475,
+      "Value": "210",
       "GroupId": 1
     },
     {
@@ -248,8 +254,8 @@
     },
     {
       "Name": "License Europe",
-      "Price": 9900,
-      "Value": "944",
+      "Price": 13266,
+      "Value": "1.01K",
       "GroupId": 2
     },
     {
@@ -308,20 +314,20 @@
     },
     {
       "Name": "Bitcoin Pizza Day",
-      "Price": 1103,
-      "Value": "107",
+      "Price": 1276,
+      "Value": "114",
       "GroupId": 3
     },
     {
       "Name": "Top 10 Global Ranking",
-      "Price": 15513,
-      "Value": "1.47K",
+      "Price": 19799,
+      "Value": "1.57K",
       "GroupId": 3
     },
     {
       "Name": "Special Hamster Conference",
-      "Price": 13266,
-      "Value": "1.26K",
+      "Price": 18667,
+      "Value": "1.35K",
       "GroupId": 3
     },
     {
@@ -334,6 +340,12 @@
       "Name": "Apps Center Listing",
       "Price": 16538,
       "Value": "1.07K",
+      "GroupId": 3
+    },
+    {
+      "Name": "Hamster Kombat merch",
+      "Price": 3308,
+      "Value": "107",
       "GroupId": 3
     }
   ]
