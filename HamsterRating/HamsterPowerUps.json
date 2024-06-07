@@ -20,26 +20,26 @@
   "PowerUps": [
     {
       "Name": "Fan tokens",
-      "Price": 12763,
-      "Value": "1.08K",
+      "Price": 19799,
+      "Value": "1.24K",
       "GroupId": 0
     },
     {
       "Name": "Staking",
-      "Price": 9287,
-      "Value": "842",
+      "Price": 13067,
+      "Value": "900",
       "GroupId": 0
     },
     {
       "Name": "BTC pirs",
-      "Price": 663,
-      "Value": "56",
+      "Price": 933,
+      "Value": "60",
       "GroupId": 0
     },
     {
       "Name": "ETH pairs",
-      "Price": 594,
-      "Value": "52",
+      "Price": 796,
+      "Value": "56",
       "GroupId": 0
     },
     {
@@ -56,14 +56,14 @@
     },
     {
       "Name": "Def2.0 tokens",
-      "Price": 551,
-      "Value": "43",
+      "Price": 638,
+      "Value": "46",
       "GroupId": 0
     },
     {
       "Name": "SocialFi tokens",
-      "Price": 638,
-      "Value": "57",
+      "Price": 990,
+      "Value": "66",
       "GroupId": 0
     },
     {
@@ -74,32 +74,44 @@
     },
     {
       "Name": "Shit coins",
-      "Price": 9900,
-      "Value": "773",
+      "Price": 13266,
+      "Value": "828",
       "GroupId": 0
     },
     {
       "Name": "P2P trading",
-      "Price": 4631,
-      "Value": "417",
+      "Price": 8316,
+      "Value": "511",
+      "GroupId": 0
+    },
+    {
+      "Name": "Margin trading x10",
+      "Price": 4950,
+      "Value": "360",
+      "GroupId": 0
+    },
+    {
+      "Name": "Margin trading x20",
+      "Price": 3191,
+      "Value": "401",
       "GroupId": 0
     },
     {
       "Name": "Support team",
-      "Price": 827,
-      "Value": "75",
+      "Price": 1485,
+      "Value": "92",
       "GroupId": 1
     },
     {
       "Name": "HamsterBook",
-      "Price": 1327,
-      "Value": "98",
+      "Price": 1867,
+      "Value": "105",
       "GroupId": 1
     },
     {
       "Name": "X",
-      "Price": 1459,
-      "Value": "112",
+      "Price": 2053,
+      "Value": "120",
       "GroupId": 1
     },
     {
@@ -116,20 +128,20 @@
     },
     {
       "Name": "HamsterGram",
-      "Price": 776,
-      "Value": "61",
+      "Price": 990,
+      "Value": "66",
       "GroupId": 1
     },
     {
       "Name": "TikTok",
-      "Price": 1485,
-      "Value": "131",
+      "Price": 1990,
+      "Value": "140",
       "GroupId": 1
     },
     {
       "Name": "Coindesk",
-      "Price": 1000,
-      "Value": "80",
+      "Price": 1276,
+      "Value": "92",
       "GroupId": 1
     },
     {
@@ -140,14 +152,14 @@
     },
     {
       "Name": "CEO",
-      "Price": 1276,
-      "Value": "114",
+      "Price": 1980,
+      "Value": "131",
       "GroupId": 1
     },
     {
       "Name": "IT team",
-      "Price": 3960,
-      "Value": "315",
+      "Price": 5307,
+      "Value": "337",
       "GroupId": 1
     },
     {
@@ -158,26 +170,26 @@
     },
     {
       "Name": "Partnership program",
-      "Price": 1327,
-      "Value": "98",
+      "Price": 1867,
+      "Value": "105",
       "GroupId": 1
     },
     {
       "Name": "Product team",
-      "Price": 1276,
-      "Value": "114",
+      "Price": 1980,
+      "Value": "131",
       "GroupId": 1
     },
     {
       "Name": "BisDev team",
-      "Price": 638,
-      "Value": "57",
+      "Price": 990,
+      "Value": "66",
       "GroupId": 1
     },
     {
       "Name": "Two factor authentication",
-      "Price": 1980,
-      "Value": "164",
+      "Price": 2653,
+      "Value": "175",
       "GroupId": 1
     },
     {
@@ -212,8 +224,8 @@
     },
     {
       "Name": "Blocking suspicious accounts",
-      "Price": 2475,
-      "Value": "210",
+      "Price": 3317,
+      "Value": "224",
       "GroupId": 1
     },
     {
@@ -224,8 +236,8 @@
     },
     {
       "Name": "KYB",
-      "Price": 990,
-      "Value": "79",
+      "Price": 1327,
+      "Value": "84",
       "GroupId": 2
     },
     {
@@ -242,20 +254,20 @@
     },
     {
       "Name": "Anti money loundering",
-      "Price": 3308,
-      "Value": "300",
+      "Price": 5940,
+      "Value": "367",
       "GroupId": 2
     },
     {
       "Name": "License UAE",
-      "Price": 7757,
-      "Value": "686",
+      "Price": 13266,
+      "Value": "785",
       "GroupId": 2
     },
     {
       "Name": "License Europe",
-      "Price": 13266,
-      "Value": "1.01K",
+      "Price": 18667,
+      "Value": "1.08K",
       "GroupId": 2
     },
     {
@@ -266,20 +278,20 @@
     },
     {
       "Name": "License South America",
-      "Price": 5513,
-      "Value": "417",
+      "Price": 6381,
+      "Value": "447",
       "GroupId": 2
     },
     {
       "Name": "License Australia",
-      "Price": 9900,
-      "Value": "891",
+      "Price": 13266,
+      "Value": "954",
       "GroupId": 2
     },
     {
       "Name": "License Nigeria",
-      "Price": 2327,
-      "Value": "208",
+      "Price": 3980,
+      "Value": "238",
       "GroupId": 2
     },
     {
@@ -296,38 +308,38 @@
     },
     {
       "Name": "Web3 academy launch",
-      "Price": 21779,
-      "Value": "1.96K",
+      "Price": 29186,
+      "Value": "2.1K",
       "GroupId": 3
     },
     {
       "Name": "Youtube Gold Button",
-      "Price": 3878,
-      "Value": "337",
+      "Price": 6633,
+      "Value": "386",
       "GroupId": 3
     },
     {
       "Name": "Hamster YouTube Channel",
-      "Price": 3980,
-      "Value": "351",
+      "Price": 5600,
+      "Value": "375",
       "GroupId": 3
     },
     {
       "Name": "Bitcoin Pizza Day",
-      "Price": 1276,
-      "Value": "114",
+      "Price": 1980,
+      "Value": "131",
       "GroupId": 3
     },
     {
       "Name": "Top 10 Global Ranking",
-      "Price": 19799,
-      "Value": "1.57K",
+      "Price": 26533,
+      "Value": "1.68K",
       "GroupId": 3
     },
     {
       "Name": "Special Hamster Conference",
-      "Price": 18667,
-      "Value": "1.35K",
+      "Price": 27580,
+      "Value": "1.44K",
       "GroupId": 3
     },
     {
