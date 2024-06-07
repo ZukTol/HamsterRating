@@ -1,0 +1,88 @@
+{
+	"Groups": [
+		{
+			"Id": 0,
+			"Name": "Markets"
+		},
+		{
+			"Id": 1,
+			"Name": "PR&Team"
+		},
+		{
+			"Id": 2,
+			"Name": "Legal"
+		},
+		{
+			"Id": 3,
+			"Name": "Specials"
+		}
+	],
+	"PowerUps": [
+		{
+			"Name": "Fan tokens",
+			"Price": 11025,
+			"Value": "1.01K",
+			"GroupId": 0
+		},
+		{
+			"Name": "Staking",
+			"Price": 3859,
+			"Value": "642",
+			"GroupId": 0
+		},
+		{
+			"Name": "BTC pirs",
+			"Price": 276,
+			"Value": "43",
+			"GroupId": 0
+		},
+		{
+			"Name": "ETH pairs",
+			"Price": 331,
+			"Value": "43",
+			"GroupId": 0
+		},
+		{
+			"Name": "Top 10 cmc pairs",
+			"Price": 1276,
+			"Value": "92",
+			"GroupId": 0
+		},
+		{
+			"Name": "GameFi tokens",
+			"Price": 21407,
+			"Value": "147",
+			"GroupId": 0
+		},
+		{
+			"Name": "Def2.0 tokens",
+			"Price": 551,
+			"Value": "43",
+			"GroupId": 0
+		},
+		{
+			"Name": "SocialFi tokens",
+			"Price": 551,
+			"Value": "54",
+			"GroupId": 0
+		},
+		{
+			"Name": "Meme coins",
+			"Price": 0,
+			"Value": "110",
+			"GroupId": 0
+		},
+		{
+			"Name": "Shit coins",
+			"Price": 5513,
+			"Value": "631",
+			"GroupId": 0
+		},
+		{
+			"Name": "P2P trading",
+			"Price": 4631,
+			"Value": "417",
+			"GroupId": 0
+		}
+	]
+}
