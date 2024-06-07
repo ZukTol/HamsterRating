@@ -26,7 +26,7 @@ namespace HamsterRating.Commands
                 Price = data.NewPrice,
                 Value = data.NewValue
             });
-            MessageBox.Show(data.Name);
+            //MessageBox.Show(data.Name);
             data.Syncronize();
         }
     }

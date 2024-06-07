@@ -32,14 +32,14 @@
     },
     {
       "Name": "BTC pirs",
-      "Price": 495,
-      "Value": "52",
+      "Price": 663,
+      "Value": "56",
       "GroupId": 0
     },
     {
       "Name": "ETH pairs",
-      "Price": 465,
-      "Value": "49",
+      "Price": 594,
+      "Value": "52",
       "GroupId": 0
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "Name": "SocialFi tokens",
-      "Price": 551,
-      "Value": "54",
+      "Price": 638,
+      "Value": "57",
       "GroupId": 0
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "Name": "Shit coins",
-      "Price": 6381,
-      "Value": "675",
+      "Price": 7757,
+      "Value": "723",
       "GroupId": 0
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "Name": "TikTok",
-      "Price": 1163,
-      "Value": "123",
+      "Price": 1485,
+      "Value": "131",
       "GroupId": 1
     },
     {
@@ -146,8 +146,8 @@
     },
     {
       "Name": "IT team",
-      "Price": 2553,
-      "Value": "275",
+      "Price": 3103,
+      "Value": "294",
       "GroupId": 1
     },
     {
@@ -170,14 +170,14 @@
     },
     {
       "Name": "BisDev team",
-      "Price": 551,
-      "Value": "54",
+      "Price": 638,
+      "Value": "57",
       "GroupId": 1
     },
     {
       "Name": "Two factor authentication",
-      "Price": 1551,
-      "Value": "153",
+      "Price": 1980,
+      "Value": "164",
       "GroupId": 1
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "Name": "Anonymous transactions ban",
-      "Price": 4964,
-      "Value": "482",
+      "Price": 7701,
+      "Value": "515",
       "GroupId": 1
     },
     {
@@ -242,8 +242,8 @@
     },
     {
       "Name": "License UAE",
-      "Price": 5513,
-      "Value": "599",
+      "Price": 7757,
+      "Value": "686",
       "GroupId": 2
     },
     {
@@ -266,14 +266,14 @@
     },
     {
       "Name": "License Australia",
-      "Price": 7757,
-      "Value": "833",
+      "Price": 9900,
+      "Value": "891",
       "GroupId": 2
     },
     {
       "Name": "License Nigeria",
-      "Price": 1914,
-      "Value": "195",
+      "Price": 2327,
+      "Value": "208",
       "GroupId": 2
     },
     {
@@ -296,8 +296,8 @@
     },
     {
       "Name": "Youtube Gold Button",
-      "Price": 2756,
-      "Value": "294",
+      "Price": 3878,
+      "Value": "337",
       "GroupId": 3
     },
     {
