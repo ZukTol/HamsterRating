@@ -17,8 +17,9 @@
         </CollectionViewSource>
     </Window.Resources>
     <Grid>
-        <DataGrid ItemsSource="{Binding Source={StaticResource DataViewSource}}">
+        <DataGrid ItemsSource="{Binding Source={StaticResource DataViewSource}}" IsReadOnly="False">
             <DataGrid.Columns>
+                <!--<DataGridTextColumn IsReadOnly="False" Binding="{Binding Path=NewPrice, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Header="NewPrice" />-->
                 <DataGridTemplateColumn Header="Use" >
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>

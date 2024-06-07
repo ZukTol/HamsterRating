@@ -17,8 +17,28 @@ namespace HamsterRating.ViewModels
 
         public async Task OnLoaded()
         {
+            await LoadData();
+        }
+
+        private async Task LoadData()
+        {
             var models = await _powerUpRepository.GetPowerUpsAsync();
-            Data = new ObservableCollection<PowerUpViewModel>(models.Select(x => new PowerUpViewModel(x)).OrderBy(x=>x.CostOfUpgrade));
+            Data = new ObservableCollection<PowerUpViewModel>(models.Select(x =>
+            {
+                var res = new PowerUpViewModel(x);
+                res.UseCommandExecuted += Res_UseCommandExecuted;
+                return res;
+            }).OrderBy(x => x.CostOfUpgrade));
+        }
+
+        private async void Res_UseCommandExecuted(PowerUpViewModel obj)
+        {
+
+            foreach (var item in Data)
+            {
+                item.UseCommandExecuted -= Res_UseCommandExecuted;
+            }
+            await LoadData();
         }
     }
 }

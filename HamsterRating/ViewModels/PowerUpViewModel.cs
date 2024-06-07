@@ -14,13 +14,21 @@ namespace HamsterRating.ViewModels
         private string _group;
         private decimal _profitability;
 
+        private decimal _newPrice;
+        private string _newValue;
+
         public string Name { get => _name; private set { _name = value; OnPropertyChanged(); } }
         public decimal Price { get => _price; private set { _price = value; OnPropertyChanged(); } }
         public string Value { get => _value; private set { _value = value; OnPropertyChanged(); } }
         public string Group { get => _group; private set { _group = value; OnPropertyChanged(); } }
         public decimal CostOfUpgrade { get => _profitability; private set { _profitability = value; OnPropertyChanged(); } }
 
+        public decimal NewPrice { get => _newPrice; set { _newPrice = value; OnPropertyChanged(); } }
+        public string NewValue { get => _newValue; set { _newValue = value; OnPropertyChanged(); } }
+
         public ICommand UseCommand { get => App.ServiceProvider.GetService<UsePowerUpCommand>(); }
+
+        public event Action<PowerUpViewModel> UseCommandExecuted;
 
         public PowerUpViewModel(PowerUp model)
         {
@@ -43,6 +51,11 @@ namespace HamsterRating.ViewModels
             if (valueStr.EndsWith("M", StringComparison.OrdinalIgnoreCase))
                 return decimal.Parse(valueStr.Substring(0, valueStr.Length - 1), CultureInfo.InvariantCulture) * 1000000;
             throw new ArgumentException("Can't parse");
+        }
+
+        public void Syncronize()
+        {
+            UseCommandExecuted.Invoke(this);
         }
     }
 }

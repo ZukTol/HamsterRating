@@ -20,7 +20,14 @@ namespace HamsterRating.Commands
         public async void Execute(object parameter)
         {
             var data = (PowerUpViewModel)parameter;
+            await _powerUpRepository.UpdatePowerUpAsync(new Core.Models.PowerUp
+            {
+                Name = data.Name,
+                Price = data.NewPrice,
+                Value = data.NewValue
+            });
             MessageBox.Show(data.Name);
+            data.Syncronize();
         }
     }
 }
