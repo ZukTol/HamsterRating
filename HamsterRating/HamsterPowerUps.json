@@ -83,6 +83,258 @@
       "Price": 4631,
       "Value": "417",
       "GroupId": 0
+    },
+    {
+      "Name": "Support team",
+      "Price": 827,
+      "Value": "75",
+      "GroupId": 1
+    },
+    {
+      "Name": "HamsterBook",
+      "Price": 1327,
+      "Value": "98",
+      "GroupId": 1
+    },
+    {
+      "Name": "X",
+      "Price": 1459,
+      "Value": "112",
+      "GroupId": 1
+    },
+    {
+      "Name": "Cointelegraph",
+      "Price": 8344,
+      "Value": "79",
+      "GroupId": 1
+    },
+    {
+      "Name": "HamsterTube",
+      "Price": 5134,
+      "Value": "155",
+      "GroupId": 1
+    },
+    {
+      "Name": "HamsterGram",
+      "Price": 776,
+      "Value": "61",
+      "GroupId": 1
+    },
+    {
+      "Name": "TikTok",
+      "Price": 827,
+      "Value": "107",
+      "GroupId": 1
+    },
+    {
+      "Name": "Coindesk",
+      "Price": 1000,
+      "Value": "80",
+      "GroupId": 1
+    },
+    {
+      "Name": "Influencers",
+      "Price": 21393,
+      "Value": "464",
+      "GroupId": 1
+    },
+    {
+      "Name": "CEO",
+      "Price": 1276,
+      "Value": "114",
+      "GroupId": 1
+    },
+    {
+      "Name": "IT team",
+      "Price": 2553,
+      "Value": "275",
+      "GroupId": 1
+    },
+    {
+      "Name": "Marketing",
+      "Price": 1276,
+      "Value": "80",
+      "GroupId": 1
+    },
+    {
+      "Name": "Partnership program",
+      "Price": 551,
+      "Value": "75",
+      "GroupId": 1
+    },
+    {
+      "Name": "Product team",
+      "Price": 1103,
+      "Value": "107",
+      "GroupId": 1
+    },
+    {
+      "Name": "BisDev team",
+      "Price": 551,
+      "Value": "54",
+      "GroupId": 1
+    },
+    {
+      "Name": "Two factor authentication",
+      "Price": 1000,
+      "Value": "125",
+      "GroupId": 1
+    },
+    {
+      "Name": "Security Audition",
+      "Price": 3308,
+      "Value": "107",
+      "GroupId": 1
+    },
+    {
+      "Name": "Anonymous transactions ban",
+      "Price": 992,
+      "Value": "321",
+      "GroupId": 1
+    },
+    {
+      "Name": "Consensus Explorer pass",
+      "Price": 27563,
+      "Value": "1.6K",
+      "GroupId": 1
+    },
+    {
+      "Name": "Launch your internal VC labs",
+      "Price": 17089,
+      "Value": "535",
+      "GroupId": 1
+    },
+    {
+      "Name": "Compliance officer",
+      "Price": 3859,
+      "Value": "128",
+      "GroupId": 1
+    },
+    {
+      "Name": "KYC",
+      "Price": 552,
+      "Value": "16",
+      "GroupId": 2
+    },
+    {
+      "Name": "KYB",
+      "Price": 990,
+      "Value": "79",
+      "GroupId": 2
+    },
+    {
+      "Name": "Legal opinion",
+      "Price": 2653,
+      "Value": "84",
+      "GroupId": 2
+    },
+    {
+      "Name": "SEC transparancy",
+      "Price": 10269,
+      "Value": "103",
+      "GroupId": 2
+    },
+    {
+      "Name": "Anti money loundering",
+      "Price": 3308,
+      "Value": "300",
+      "GroupId": 2
+    },
+    {
+      "Name": "License UAE",
+      "Price": 5513,
+      "Value": "599",
+      "GroupId": 2
+    },
+    {
+      "Name": "License Europe",
+      "Price": 5513,
+      "Value": "770",
+      "GroupId": 2
+    },
+    {
+      "Name": "License Asia",
+      "Price": 5513,
+      "Value": "396",
+      "GroupId": 2
+    },
+    {
+      "Name": "License South America",
+      "Price": 5513,
+      "Value": "417",
+      "GroupId": 2
+    },
+    {
+      "Name": "License Australia",
+      "Price": 5513,
+      "Value": "728",
+      "GroupId": 2
+    },
+    {
+      "Name": "License Nigeria",
+      "Price": 1654,
+      "Value": "182",
+      "GroupId": 2
+    },
+    {
+      "Name": "License Japan",
+      "Price": 50000,
+      "Value": "2.6K",
+      "GroupId": 2
+    },
+    {
+      "Name": "Consensus Piranha Pass",
+      "Price": 55125,
+      "Value": "2.03K",
+      "GroupId": 3
+    },
+    {
+      "Name": "Web3 academy launch",
+      "Price": 21779,
+      "Value": "1.96K",
+      "GroupId": 3
+    },
+    {
+      "Name": "Youtube Gold Button",
+      "Price": 2756,
+      "Value": "294",
+      "GroupId": 3
+    },
+    {
+      "Name": "Hamster YouTube Channel",
+      "Price": 1654,
+      "Value": "268",
+      "GroupId": 3
+    },
+    {
+      "Name": "Bitcoin Pizza Day",
+      "Price": 1103,
+      "Value": "107",
+      "GroupId": 3
+    },
+    {
+      "Name": "Top 10 Global Ranking",
+      "Price": 15513,
+      "Value": "1.47K",
+      "GroupId": 3
+    },
+    {
+      "Name": "Special Hamster Conference",
+      "Price": 13266,
+      "Value": "1.26K",
+      "GroupId": 3
+    },
+    {
+      "Name": "There are two chairs",
+      "Price": 55125,
+      "Value": "2.14K",
+      "GroupId": 3
+    },
+    {
+      "Name": "Apps Center Listing",
+      "Price": 16538,
+      "Value": "1.07K",
+      "GroupId": 3
     }
   ]
 }
