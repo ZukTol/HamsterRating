@@ -26,8 +26,8 @@
     },
     {
       "Name": "Staking",
-      "Price": 4467,
-      "Value": "687",
+      "Price": 5430,
+      "Value": "735",
       "GroupId": 0
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "Name": "Anonymous transactions ban",
-      "Price": 992,
-      "Value": "321",
+      "Price": 3360,
+      "Value": "450",
       "GroupId": 1
     },
     {
@@ -302,8 +302,8 @@
     },
     {
       "Name": "Hamster YouTube Channel",
-      "Price": 1654,
-      "Value": "268",
+      "Price": 1914,
+      "Value": "286",
       "GroupId": 3
     },
     {
