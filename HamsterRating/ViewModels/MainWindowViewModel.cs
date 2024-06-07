@@ -28,7 +28,7 @@ namespace HamsterRating.ViewModels
                 var res = new PowerUpViewModel(x);
                 res.UseCommandExecuted += Res_UseCommandExecuted;
                 return res;
-            }).OrderBy(x => x.CostOfUpgrade));
+            }).Where(x => x.CostOfUpgrade > 0).OrderBy(x => x.CostOfUpgrade));
         }
 
         private async void Res_UseCommandExecuted(PowerUpViewModel obj)
