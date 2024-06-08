@@ -20,14 +20,14 @@
   "PowerUps": [
     {
       "Name": "Fan tokens",
-      "Price": 19799,
-      "Value": "1.24K",
+      "Price": 26533,
+      "Value": "1.33K",
       "GroupId": 0
     },
     {
       "Name": "Staking",
-      "Price": 13067,
-      "Value": "900",
+      "Price": 19306,
+      "Value": "963",
       "GroupId": 0
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "Name": "Top 10 cmc pairs",
-      "Price": 1276,
-      "Value": "92",
+      "Price": 1551,
+      "Value": "98",
       "GroupId": 0
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "Name": "Shit coins",
-      "Price": 13266,
-      "Value": "828",
+      "Price": 18667,
+      "Value": "885",
       "GroupId": 0
     },
     {
@@ -86,14 +86,14 @@
     },
     {
       "Name": "Margin trading x10",
-      "Price": 4950,
-      "Value": "360",
+      "Price": 9334,
+      "Value": "413",
       "GroupId": 0
     },
     {
       "Name": "Margin trading x20",
-      "Price": 3191,
-      "Value": "401",
+      "Price": 9334,
+      "Value": "525",
       "GroupId": 0
     },
     {
@@ -206,8 +206,8 @@
     },
     {
       "Name": "Consensus Explorer pass",
-      "Price": 27563,
-      "Value": "1.6K",
+      "Price": 38783,
+      "Value": "1.83K",
       "GroupId": 1
     },
     {
@@ -226,6 +226,18 @@
       "Name": "Blocking suspicious accounts",
       "Price": 3317,
       "Value": "224",
+      "GroupId": 1
+    },
+    {
+      "Name": "QA team",
+      "Price": 1275,
+      "Value": "190",
+      "GroupId": 1
+    },
+    {
+      "Name": "Tokenomics expert",
+      "Price": 5000,
+      "Value": "500",
       "GroupId": 1
     },
     {
@@ -266,8 +278,8 @@
     },
     {
       "Name": "License Europe",
-      "Price": 18667,
-      "Value": "1.08K",
+      "Price": 27580,
+      "Value": "1.15K",
       "GroupId": 2
     },
     {
@@ -284,8 +296,8 @@
     },
     {
       "Name": "License Australia",
-      "Price": 13266,
-      "Value": "954",
+      "Price": 27580,
+      "Value": "1.09K",
       "GroupId": 2
     },
     {
@@ -308,8 +320,8 @@
     },
     {
       "Name": "Web3 academy launch",
-      "Price": 29186,
-      "Value": "2.1K",
+      "Price": 41068,
+      "Value": "2.25K",
       "GroupId": 3
     },
     {
@@ -332,8 +344,8 @@
     },
     {
       "Name": "Top 10 Global Ranking",
-      "Price": 26533,
-      "Value": "1.68K",
+      "Price": 37335,
+      "Value": "1.8K",
       "GroupId": 3
     },
     {
@@ -350,8 +362,8 @@
     },
     {
       "Name": "Apps Center Listing",
-      "Price": 16538,
-      "Value": "1.07K",
+      "Price": 23270,
+      "Value": "1.22K",
       "GroupId": 3
     },
     {
