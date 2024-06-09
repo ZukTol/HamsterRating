@@ -20,32 +20,32 @@
   "PowerUps": [
     {
       "Name": "Fan tokens",
-      "Price": 26533,
-      "Value": "1.33K",
+      "Price": 139387,
+      "Value": "1.74K",
       "GroupId": 0
     },
     {
       "Name": "Staking",
-      "Price": 19306,
-      "Value": "963",
+      "Price": 83440,
+      "Value": "1.18K",
       "GroupId": 0
     },
     {
-      "Name": "BTC pirs",
-      "Price": 933,
-      "Value": "60",
+      "Name": "BTC pairs",
+      "Price": 3485,
+      "Value": "74",
       "GroupId": 0
     },
     {
       "Name": "ETH pairs",
-      "Price": 1120,
-      "Value": "60",
+      "Price": 4182,
+      "Value": "74",
       "GroupId": 0
     },
     {
       "Name": "Top 10 cmc pairs",
-      "Price": 1551,
-      "Value": "98",
+      "Price": 5516,
+      "Value": "128",
       "GroupId": 0
     },
     {
@@ -56,62 +56,62 @@
     },
     {
       "Name": "Def2.0 tokens",
-      "Price": 776,
-      "Value": "49",
+      "Price": 2758,
+      "Value": "64",
       "GroupId": 0
     },
     {
       "Name": "SocialFi tokens",
-      "Price": 1327,
-      "Value": "70",
+      "Price": 4279,
+      "Value": "86",
       "GroupId": 0
     },
     {
       "Name": "Meme coins",
-      "Price": 0,
-      "Value": "110",
+      "Price": 7467,
+      "Value": "165",
       "GroupId": 0
     },
     {
       "Name": "Shit coins",
-      "Price": 18667,
-      "Value": "885",
+      "Price": 69693,
+      "Value": "1.08K",
       "GroupId": 0
     },
     {
       "Name": "P2P trading",
-      "Price": 8316,
-      "Value": "511",
+      "Price": 35940,
+      "Value": "670",
       "GroupId": 0
     },
     {
       "Name": "Margin trading x10",
-      "Price": 9334,
-      "Value": "413",
+      "Price": 21393,
+      "Value": "473",
       "GroupId": 0
     },
     {
       "Name": "Margin trading x20",
-      "Price": 9334,
-      "Value": "525",
+      "Price": 34847,
+      "Value": "643",
       "GroupId": 0
     },
     {
       "Name": "Support team",
-      "Price": 1485,
-      "Value": "92",
+      "Price": 6418,
+      "Value": "120",
       "GroupId": 1
     },
     {
       "Name": "HamsterBook",
-      "Price": 1867,
-      "Value": "105",
+      "Price": 6969,
+      "Value": "129",
       "GroupId": 1
     },
     {
       "Name": "X",
-      "Price": 2053,
-      "Value": "120",
+      "Price": 7666,
+      "Value": "147",
       "GroupId": 1
     },
     {
@@ -122,140 +122,146 @@
     },
     {
       "Name": "HamsterTube",
-      "Price": 5134,
-      "Value": "155",
+      "Price": 8363,
+      "Value": "165",
       "GroupId": 1
     },
     {
       "Name": "HamsterGram",
-      "Price": 1327,
-      "Value": "70",
+      "Price": 4279,
+      "Value": "86",
       "GroupId": 1
     },
     {
       "Name": "TikTok",
-      "Price": 2800,
-      "Value": "150",
+      "Price": 10454,
+      "Value": "184",
       "GroupId": 1
     },
     {
       "Name": "Coindesk",
-      "Price": 1551,
-      "Value": "98",
-      "GroupId": 1
-    },
-    {
-      "Name": "Influencers",
-      "Price": 21393,
-      "Value": "464",
-      "GroupId": 1
-    },
-    {
-      "Name": "CEO",
-      "Price": 2653,
-      "Value": "140",
-      "GroupId": 1
-    },
-    {
-      "Name": "IT team",
-      "Price": 5307,
-      "Value": "337",
-      "GroupId": 1
-    },
-    {
-      "Name": "Marketing",
-      "Price": 1276,
-      "Value": "80",
-      "GroupId": 1
-    },
-    {
-      "Name": "Partnership program",
-      "Price": 1867,
-      "Value": "105",
-      "GroupId": 1
-    },
-    {
-      "Name": "Product team",
-      "Price": 2653,
-      "Value": "140",
-      "GroupId": 1
-    },
-    {
-      "Name": "BisDev team",
-      "Price": 1327,
-      "Value": "70",
-      "GroupId": 1
-    },
-    {
-      "Name": "Two factor authentication",
-      "Price": 2653,
-      "Value": "175",
-      "GroupId": 1
-    },
-    {
-      "Name": "Security Audition",
-      "Price": 3308,
-      "Value": "107",
-      "GroupId": 1
-    },
-    {
-      "Name": "Anonymous transactions ban",
-      "Price": 12545,
-      "Value": "552",
-      "GroupId": 1
-    },
-    {
-      "Name": "Consensus Explorer pass",
-      "Price": 38783,
-      "Value": "1.83K",
-      "GroupId": 1
-    },
-    {
-      "Name": "Launch your internal VC labs",
-      "Price": 17089,
-      "Value": "535",
-      "GroupId": 1
-    },
-    {
-      "Name": "Compliance officer",
-      "Price": 3859,
+      "Price": 5516,
       "Value": "128",
       "GroupId": 1
     },
     {
+      "Name": "Influencers",
+      "Price": 59600,
+      "Value": "531",
+      "GroupId": 1
+    },
+    {
+      "Name": "CEO",
+      "Price": 8557,
+      "Value": "172",
+      "GroupId": 1
+    },
+    {
+      "Name": "IT team",
+      "Price": 17114,
+      "Value": "412",
+      "GroupId": 1
+    },
+    {
+      "Name": "Marketing",
+      "Price": 5516,
+      "Value": "112",
+      "GroupId": 1
+    },
+    {
+      "Name": "Partnership program",
+      "Price": 6969,
+      "Value": "129",
+      "GroupId": 1
+    },
+    {
+      "Name": "Product team",
+      "Price": 8557,
+      "Value": "172",
+      "GroupId": 1
+    },
+    {
+      "Name": "BisDev team",
+      "Price": 4279,
+      "Value": "86",
+      "GroupId": 1
+    },
+    {
+      "Name": "Two factor authentication",
+      "Price": 13939,
+      "Value": "230",
+      "GroupId": 1
+    },
+    {
+      "Name": "Security Audition",
+      "Price": 5940,
+      "Value": "131",
+      "GroupId": 1
+    },
+    {
+      "Name": "Anonymous transactions ban",
+      "Price": 38532,
+      "Value": "631",
+      "GroupId": 1
+    },
+    {
+      "Name": "Consensus Explorer pass",
+      "Price": 137900,
+      "Value": "2.4K",
+      "GroupId": 1
+    },
+    {
+      "Name": "Launch your internal VC labs",
+      "Price": 24046,
+      "Value": "613",
+      "GroupId": 1
+    },
+    {
+      "Name": "Compliance officer",
+      "Price": 6930,
+      "Value": "157",
+      "GroupId": 1
+    },
+    {
       "Name": "Blocking suspicious accounts",
-      "Price": 4667,
-      "Value": "240",
+      "Price": 17423,
+      "Value": "294",
       "GroupId": 1
     },
     {
       "Name": "QA team",
-      "Price": 7033,
-      "Value": "305",
+      "Price": 17772,
+      "Value": "349",
       "GroupId": 1
     },
     {
       "Name": "Tokenomics expert",
-      "Price": 9900,
-      "Value": "655",
+      "Price": 42786,
+      "Value": "859",
+      "GroupId": 1
+    },
+    {
+      "Name": "Risk management team",
+      "Price": 27877,
+      "Value": "487",
       "GroupId": 1
     },
     {
       "Name": "KYC",
-      "Price": 552,
-      "Value": "16",
+      "Price": 856,
+      "Value": "17",
       "GroupId": 2
     },
     {
       "Name": "KYB",
-      "Price": 1327,
-      "Value": "84",
+      "Price": 4279,
+      "Value": "103",
       "GroupId": 2
     },
     {
       "Name": "Legal opinion",
-      "Price": 2653,
-      "Value": "84",
+      "Price": 5516,
+      "Value": "96",
       "GroupId": 2
     },
     {
@@ -266,114 +272,114 @@
     },
     {
       "Name": "Anti money loundering",
-      "Price": 5940,
-      "Value": "367",
+      "Price": 25671,
+      "Value": "481",
       "GroupId": 2
     },
     {
       "Name": "License UAE",
-      "Price": 13266,
-      "Value": "785",
+      "Price": 42786,
+      "Value": "962",
       "GroupId": 2
     },
     {
       "Name": "License Europe",
-      "Price": 27580,
-      "Value": "1.15K",
+      "Price": 119200,
+      "Value": "1.41K",
       "GroupId": 2
     },
     {
       "Name": "License Asia",
-      "Price": 7757,
-      "Value": "453",
+      "Price": 27580,
+      "Value": "594",
       "GroupId": 2
     },
     {
       "Name": "License South America",
-      "Price": 7757,
-      "Value": "478",
+      "Price": 27580,
+      "Value": "626",
       "GroupId": 2
     },
     {
       "Name": "License Australia",
-      "Price": 27580,
-      "Value": "1.09K",
+      "Price": 119200,
+      "Value": "1.33K",
       "GroupId": 2
     },
     {
       "Name": "License Nigeria",
-      "Price": 3980,
-      "Value": "238",
+      "Price": 12836,
+      "Value": "292",
       "GroupId": 2
     },
     {
       "Name": "License Japan",
-      "Price": 50000,
-      "Value": "2.6K",
+      "Price": 275801,
+      "Value": "4.17K",
       "GroupId": 2
     },
     {
       "Name": "Consensus Piranha Pass",
-      "Price": 55125,
-      "Value": "2.03K",
+      "Price": 186673,
+      "Value": "2.85K",
       "GroupId": 3
     },
     {
       "Name": "Web3 academy launch",
-      "Price": 41068,
-      "Value": "2.25K",
+      "Price": 153326,
+      "Value": "2.75K",
       "GroupId": 3
     },
     {
       "Name": "Youtube Gold Button",
-      "Price": 6633,
-      "Value": "386",
+      "Price": 21393,
+      "Value": "473",
       "GroupId": 3
     },
     {
       "Name": "Hamster YouTube Channel",
-      "Price": 8274,
-      "Value": "401",
+      "Price": 20908,
+      "Value": "460",
       "GroupId": 3
     },
     {
       "Name": "Bitcoin Pizza Day",
-      "Price": 1980,
-      "Value": "131",
+      "Price": 8557,
+      "Value": "172",
       "GroupId": 3
     },
     {
       "Name": "Top 10 Global Ranking",
-      "Price": 37335,
-      "Value": "1.8K",
+      "Price": 139387,
+      "Value": "2.2K",
       "GroupId": 3
     },
     {
       "Name": "Special Hamster Conference",
-      "Price": 27580,
-      "Value": "1.44K",
+      "Price": 119200,
+      "Value": "1.77K",
       "GroupId": 3
     },
     {
       "Name": "There are two chairs",
-      "Price": 55125,
-      "Value": "2.14K",
+      "Price": 186673,
+      "Value": "3K",
       "GroupId": 3
     },
     {
       "Name": "Apps Center Listing",
-      "Price": 23270,
-      "Value": "1.22K",
+      "Price": 128357,
+      "Value": "1.71K",
       "GroupId": 3
     },
     {
       "Name": "Hamster Kombat merch",
-      "Price": 3308,
-      "Value": "107",
+      "Price": 5940,
+      "Value": "131",
       "GroupId": 3
     },
     {
-      "Name": "TON + Hamster Kombat = Success",
+      "Name": "TON \u002B Hamster Kombat = Success",
       "Price": 1102500,
       "Value": "5.35K",
       "GroupId": 3
