@@ -38,8 +38,8 @@
     },
     {
       "Name": "ETH pairs",
-      "Price": 796,
-      "Value": "56",
+      "Price": 1120,
+      "Value": "60",
       "GroupId": 0
     },
     {
@@ -56,14 +56,14 @@
     },
     {
       "Name": "Def2.0 tokens",
-      "Price": 638,
-      "Value": "46",
+      "Price": 776,
+      "Value": "49",
       "GroupId": 0
     },
     {
       "Name": "SocialFi tokens",
-      "Price": 990,
-      "Value": "66",
+      "Price": 1327,
+      "Value": "70",
       "GroupId": 0
     },
     {
@@ -128,20 +128,20 @@
     },
     {
       "Name": "HamsterGram",
-      "Price": 990,
-      "Value": "66",
+      "Price": 1327,
+      "Value": "70",
       "GroupId": 1
     },
     {
       "Name": "TikTok",
-      "Price": 1990,
-      "Value": "140",
+      "Price": 2800,
+      "Value": "150",
       "GroupId": 1
     },
     {
       "Name": "Coindesk",
-      "Price": 1276,
-      "Value": "92",
+      "Price": 1551,
+      "Value": "98",
       "GroupId": 1
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "Name": "CEO",
-      "Price": 1980,
-      "Value": "131",
+      "Price": 2653,
+      "Value": "140",
       "GroupId": 1
     },
     {
@@ -176,14 +176,14 @@
     },
     {
       "Name": "Product team",
-      "Price": 1980,
-      "Value": "131",
+      "Price": 2653,
+      "Value": "140",
       "GroupId": 1
     },
     {
       "Name": "BisDev team",
-      "Price": 990,
-      "Value": "66",
+      "Price": 1327,
+      "Value": "70",
       "GroupId": 1
     },
     {
@@ -224,20 +224,20 @@
     },
     {
       "Name": "Blocking suspicious accounts",
-      "Price": 3317,
-      "Value": "224",
+      "Price": 4667,
+      "Value": "240",
       "GroupId": 1
     },
     {
       "Name": "QA team",
-      "Price": 1275,
-      "Value": "190",
+      "Price": 7033,
+      "Value": "305",
       "GroupId": 1
     },
     {
       "Name": "Tokenomics expert",
-      "Price": 5000,
-      "Value": "500",
+      "Price": 9900,
+      "Value": "655",
       "GroupId": 1
     },
     {
@@ -284,14 +284,14 @@
     },
     {
       "Name": "License Asia",
-      "Price": 5513,
-      "Value": "396",
+      "Price": 7757,
+      "Value": "453",
       "GroupId": 2
     },
     {
       "Name": "License South America",
-      "Price": 6381,
-      "Value": "447",
+      "Price": 7757,
+      "Value": "478",
       "GroupId": 2
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "Name": "Hamster YouTube Channel",
-      "Price": 5600,
-      "Value": "375",
+      "Price": 8274,
+      "Value": "401",
       "GroupId": 3
     },
     {
@@ -370,6 +370,12 @@
       "Name": "Hamster Kombat merch",
       "Price": 3308,
       "Value": "107",
+      "GroupId": 3
+    },
+    {
+      "Name": "TON + Hamster Kombat = Success",
+      "Price": 1102500,
+      "Value": "5.35K",
       "GroupId": 3
     }
   ]
